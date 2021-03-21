@@ -10,3 +10,10 @@ technique par exemple le projecteur ne fonctionne pas, un défaut dans une chamb
 ![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Acceuil.png)
 
 ### S'identifier
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/S'idetifier.png)
+
+### S'inscrire
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/S'inscrire.png)
+
