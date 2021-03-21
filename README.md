@@ -7,6 +7,6 @@ technique par exemple le projecteur ne fonctionne pas, un défaut dans une chamb
 
 ### Accueil
 
-![alt text](https://github.com/moufakkir-zohair/Gestion_Terrain/blob/main/Rapport%20en%20latex/Screenshots/Acceuil.png)
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Acceuil.png)
 
 ### S'identifier
