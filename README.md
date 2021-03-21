@@ -17,3 +17,34 @@ technique par exemple le projecteur ne fonctionne pas, un défaut dans une chamb
 
 ![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/S'inscrire.png)
 
+### Statique d'étudiant
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Etudiant/dashboard.png)
+
+### Demande de salle
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Etudiant/demande_salle.png)
+
+### Demande de document à un professeur|etudiant
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Etudiant/demande_document.JPG)
+
+### Demande d'impression d'un document à un technicien
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Etudiant/demande_document.JPG)
+
+
+### Création d'incident
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Etudiant/creation_incident.JPG)
+
+### Administrateur 
+
+<p>l'administrateur peut contrôler toutes ces activités. </p>
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Administrateur/Capture.JPG)
+
+
+
+
+
