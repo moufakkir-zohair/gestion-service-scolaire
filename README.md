@@ -44,6 +44,11 @@ technique par exemple le projecteur ne fonctionne pas, un défaut dans une chamb
 
 ![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Administrateur/Capture.JPG)
 
+### Technicien 
+
+<p> Il peut gérer tous les incident qui lui sont assignés par l'administrateur. </p>
+
+![alt text](https://github.com/moufakkir-zohair/gestion_service_scolaire_PHP/blob/main/img/App/Technicien/traiter.JPG)
 
 
 
